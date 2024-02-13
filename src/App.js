@@ -14,6 +14,7 @@ const App =()=>{
     <div>
     
       <Tours tours={tours} removeTour={removeTour}></Tours>
+      <h1>jghhj</h1>
     </div>
   )
 
