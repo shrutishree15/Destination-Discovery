@@ -24,7 +24,7 @@ const Card = ({ id, image, info, price, name, removeTour }) => {
                     </span>
                 </div>
             </div>
-            <button className="btnRed" onclick={() => removeTour(id)}>
+            <button className="btnRed" onClick={() => removeTour(id)}>
                 Not Interested
             </button>
         </div >
